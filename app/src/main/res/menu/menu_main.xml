@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.utep.cs.cs4330.mypricewatcherv2.MainActivity">
+
+    <item
+        android:id="@+id/Add"
+        android:orderInCategory="100"
+        android:title="Add"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Clear"
+        android:orderInCategory="100"
+        android:title="Clear"
+        app:showAsAction="never" />
+</menu>

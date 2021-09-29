@@ -1,0 +1,2 @@
+rootProject.name='PriceWatcher'
+include ':app'
